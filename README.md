@@ -24,4 +24,4 @@ This To-Do List app allows users to add, edit, delete, and mark tasks as complet
 
 You can try the live demo here: https://obito01uchiha.github.io/To-Do-App---Jujutsu-Kaisen-Theme/
 
-## Getting Started
+
